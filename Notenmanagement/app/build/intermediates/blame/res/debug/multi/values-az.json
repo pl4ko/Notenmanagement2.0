@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\konra\\OneDrive\\Desktop\\Schule\\5DHELS\\Diplomarbeit_Notenmanagement_2.0\\Android\\Notenmanagement\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-az\\values-az.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 220,
+                    "endOffset": 321
+                },
+                "from": {
+                    "file": "C:\\Users\\konra\\.android\\build-cache\\46e1a5aed49407a623aa2690dbb1a8aae4b98aaa\\output\\res\\values-az\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 285,
+                        "endColumn": 220,
+                        "endOffset": 505
+                    }
+                }
+            }
+        ]
+    }
+]

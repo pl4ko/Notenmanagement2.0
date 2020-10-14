@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.widget.LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="at.htlbraunau.notenmanagement.ListOfSubjects"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/tv_list_of_subjects"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:padding="5dp"
+        android:background="@drawable/border_blue_background"
+        android:gravity="center_horizontal"
+        android:textColor="@android:color/background_light"
+        android:textSize="25dp"/>
+
+    <ListView
+        android:id="@+id/lv_list_of_subjects"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:clickable="false"
+        android:smoothScrollbar="true"
+        android:scrollingCache="false"
+        android:animationCache="false"/>
+</android.widget.LinearLayout>

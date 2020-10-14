@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <Preference
+            android:layout="@layout/settings_headline_layout"
+            android:selectable="false"/>
+
+        <CheckBoxPreference
+            android:id="@+id/cbp_notification"
+            android:defaultValue="false"
+            android:key="pushNotification"
+            android:title="@string/checkboxpreference_pushnotification" />
+
+        <SwitchPreference
+            android:id="@+id/sw_vibration"
+            android:defaultValue="false"
+            android:icon="@mipmap/ic_vibration"
+            android:key="@string/swVibration_key"
+            android:textSize="50dp"
+            android:title="@string/switchpreference_vibration" />
+
+        <SwitchPreference
+            android:defaultValue="false"
+            android:icon="@mipmap/ic_speaker"
+            android:key="@string/swSound_key"
+            android:title="@string/switchpreference_sound" />
+
+        <SwitchPreference
+            android:defaultValue="false"
+            android:icon="@mipmap/ic_diplay_on"
+            android:key="@string/swWakeup_key"
+            android:title="@string/switchpreference_wakeup" />
+
+
+</PreferenceScreen>

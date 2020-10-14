@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\konra\\OneDrive\\Desktop\\Schule\\5DHELS\\Diplomarbeit_Notenmanagement_2.0\\Notenmanagement\\app\\build\\intermediates\\res\\merged\\release\\layout-land\\activity_credits.xml",
+        "source": "C:\\Users\\konra\\OneDrive\\Desktop\\Schule\\5DHELS\\Diplomarbeit_Notenmanagement_2.0\\Notenmanagement\\app\\src\\main\\res\\layout-land\\activity_credits.xml"
+    },
+    {
+        "merged": "C:\\Users\\konra\\OneDrive\\Desktop\\Schule\\5DHELS\\Diplomarbeit_Notenmanagement_2.0\\Notenmanagement\\app\\build\\intermediates\\res\\merged\\release\\layout-land\\activity_selected_assessment.xml",
+        "source": "C:\\Users\\konra\\OneDrive\\Desktop\\Schule\\5DHELS\\Diplomarbeit_Notenmanagement_2.0\\Notenmanagement\\app\\src\\main\\res\\layout-land\\activity_selected_assessment.xml"
+    },
+    {
+        "merged": "C:\\Users\\konra\\OneDrive\\Desktop\\Schule\\5DHELS\\Diplomarbeit_Notenmanagement_2.0\\Notenmanagement\\app\\build\\intermediates\\res\\merged\\release\\layout-land\\activity_email_service.xml",
+        "source": "C:\\Users\\konra\\OneDrive\\Desktop\\Schule\\5DHELS\\Diplomarbeit_Notenmanagement_2.0\\Notenmanagement\\app\\src\\main\\res\\layout-land\\activity_email_service.xml"
+    },
+    {
+        "merged": "C:\\Users\\konra\\OneDrive\\Desktop\\Schule\\5DHELS\\Diplomarbeit_Notenmanagement_2.0\\Notenmanagement\\app\\build\\intermediates\\res\\merged\\release\\layout-land\\activity_all_subjects_list.xml",
+        "source": "C:\\Users\\konra\\OneDrive\\Desktop\\Schule\\5DHELS\\Diplomarbeit_Notenmanagement_2.0\\Notenmanagement\\app\\src\\main\\res\\layout-land\\activity_all_subjects_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\konra\\OneDrive\\Desktop\\Schule\\5DHELS\\Diplomarbeit_Notenmanagement_2.0\\Notenmanagement\\app\\build\\intermediates\\res\\merged\\release\\layout-land\\activity_help.xml",
+        "source": "C:\\Users\\konra\\OneDrive\\Desktop\\Schule\\5DHELS\\Diplomarbeit_Notenmanagement_2.0\\Notenmanagement\\app\\src\\main\\res\\layout-land\\activity_help.xml"
+    },
+    {
+        "merged": "C:\\Users\\konra\\OneDrive\\Desktop\\Schule\\5DHELS\\Diplomarbeit_Notenmanagement_2.0\\Notenmanagement\\app\\build\\intermediates\\res\\merged\\release\\layout-land\\activity_early_warnings.xml",
+        "source": "C:\\Users\\konra\\OneDrive\\Desktop\\Schule\\5DHELS\\Diplomarbeit_Notenmanagement_2.0\\Notenmanagement\\app\\src\\main\\res\\layout-land\\activity_early_warnings.xml"
+    },
+    {
+        "merged": "C:\\Users\\konra\\OneDrive\\Desktop\\Schule\\5DHELS\\Diplomarbeit_Notenmanagement_2.0\\Notenmanagement\\app\\build\\intermediates\\res\\merged\\release\\layout-land\\activity_home_pupil.xml",
+        "source": "C:\\Users\\konra\\OneDrive\\Desktop\\Schule\\5DHELS\\Diplomarbeit_Notenmanagement_2.0\\Notenmanagement\\app\\src\\main\\res\\layout-land\\activity_home_pupil.xml"
+    },
+    {
+        "merged": "C:\\Users\\konra\\OneDrive\\Desktop\\Schule\\5DHELS\\Diplomarbeit_Notenmanagement_2.0\\Notenmanagement\\app\\build\\intermediates\\res\\merged\\release\\layout-land\\activity_login.xml",
+        "source": "C:\\Users\\konra\\OneDrive\\Desktop\\Schule\\5DHELS\\Diplomarbeit_Notenmanagement_2.0\\Notenmanagement\\app\\src\\main\\res\\layout-land\\activity_login.xml"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\konra\\OneDrive\\Desktop\\Schule\\5DHELS\\Diplomarbeit_Notenmanagement_2.0\\Notenmanagement\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-ldltr-v21\\values-ldltr-v21.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 112,
+                    "endOffset": 163
+                },
+                "from": {
+                    "file": "C:\\Users\\konra\\.android\\build-cache\\3567e6e139e342aa067f78cca6118d87f8dfe3c2\\output\\res\\values-ldltr-v21\\values-ldltr-v21.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 112,
+                        "endOffset": 163
+                    }
+                }
+            }
+        ]
+    }
+]

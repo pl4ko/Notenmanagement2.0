@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "139811182483",
+    "firebase_url": "https://htlbraunaunotenmanagement.firebaseio.com",
+    "project_id": "htlbraunaunotenmanagement",
+    "storage_bucket": "htlbraunaunotenmanagement.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139811182483:android:e2698eea9951eb6f",
+        "android_client_info": {
+          "package_name": "at.htlbraunau.notenmanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139811182483-d6n749d0ti3ggfsq8ocedor6s7qokdlh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "at.htlbraunau.notenmanagement",
+            "certificate_hash": "51add4eba268ade93aef7aee31bc4f4bab21bbc1"
+          }
+        },
+        {
+          "client_id": "139811182483-a7o0fka6qkomlubhv1c1lph7gt6bn2jf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBACZxRMLQcEc5hqcsd3cgvviZcrctZRII"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139811182483-a7o0fka6qkomlubhv1c1lph7gt6bn2jf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

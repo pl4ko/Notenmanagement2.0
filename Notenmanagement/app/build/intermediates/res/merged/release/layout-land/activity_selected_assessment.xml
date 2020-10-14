@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.widget.ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="at.htlbraunau.notenmanagement.SelectedAssessmentActivity"
+    >
+
+    <RelativeLayout
+        android:id="@+id/rl_selected_Assessment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="30dp">
+
+        <TextView
+            android:id="@+id/tv_header"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/border_blue_background"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:padding="2dp"
+            android:gravity="center"
+            android:textColor="@android:color/background_light"
+            android:textSize="25dp" />
+
+        <TextView
+            android:id="@+id/tv_header_general"
+            android:layout_below="@+id/tv_header"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/border_blue_background"
+            android:text="@string/tv_header_general"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:padding="2dp"
+            android:gravity="center"
+            android:textColor="@android:color/background_light"
+            android:textSize="20dp" />
+
+        <GridView
+            android:id="@+id/gv_general"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/tv_header_general"
+            android:layout_alignRight="@+id/tv_header_general"
+            android:layout_below="@+id/tv_header_general"
+            android:clickable="false"
+            android:layout_marginTop="5dp"
+            android:padding="3dp"
+            android:paddingTop="2dp"
+            android:paddingBottom="2dp"
+            android:numColumns="3"
+            android:layout_centerHorizontal="true"
+            android:background="@drawable/border_lightblue_background"/>
+
+        <GridView
+            android:id="@+id/gv_general_values"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/tv_header_general"
+            android:layout_alignRight="@+id/tv_header_general"
+            android:padding="3dp"
+            android:layout_marginTop="-4dp"
+            android:layout_below="@+id/gv_general"
+            android:clickable="false"
+            android:numColumns="3"
+            android:layout_centerHorizontal="true"
+            android:background="@drawable/border_grey_background"/>
+
+        <TextView
+            android:id="@+id/tv_header_result"
+            android:layout_below="@+id/gv_general_values"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/border_blue_background"
+            android:text="@string/tv_header_result"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:padding="2dp"
+            android:gravity="center"
+            android:textColor="@android:color/background_light"
+            android:textSize="20dp" />
+
+            <GridView
+                android:id="@+id/gv_result"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignLeft="@+id/tv_header_general"
+                android:layout_alignRight="@+id/tv_header_general"
+                android:padding="3dp"
+                android:layout_marginTop="5dp"
+                android:layout_below="@+id/tv_header_result"
+                android:clickable="false"
+                android:numColumns="4"
+                android:layout_centerHorizontal="true"
+                android:background="@drawable/border_lightblue_background"/>
+
+        <GridView
+            android:id="@+id/gv_result_values"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/tv_header_general"
+            android:layout_alignRight="@+id/tv_header_general"
+            android:padding="3dp"
+            android:layout_marginTop="-4dp"
+            android:layout_below="@+id/gv_result"
+            android:clickable="false"
+            android:numColumns="4"
+            android:layout_centerHorizontal="true"
+            android:background="@drawable/border_grey_background"/>
+
+        <GridView
+            android:id="@+id/gv_overview"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/tv_header_general"
+            android:layout_alignRight="@+id/tv_header_general"
+            android:layout_marginTop="5dp"
+            android:clickable="false"
+            android:numColumns="7"
+            android:layout_below="@+id/tv_header_overview"
+            android:layout_centerHorizontal="true"
+            android:background="@drawable/border_lightblue_background"/>
+
+        <GridView
+            android:id="@+id/gv_overview_results"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/tv_header_general"
+            android:layout_alignRight="@+id/tv_header_general"
+            android:layout_below="@+id/gv_overview"
+            android:clickable="false"
+            android:layout_marginTop="-2dp"
+            android:numColumns="7"
+            android:layout_centerHorizontal="true"
+            android:background="@drawable/border_grey_background"/>
+    </RelativeLayout>
+
+</android.widget.ScrollView>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mnuOption_early_warning_icon"
+        android:icon="@drawable/early_warnings_icon"
+        android:orderInCategory="100"
+        android:title="@string/mnu_early_warning"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/mnuOption_marks_icon"
+        android:icon="@drawable/marks_icon"
+        android:orderInCategory="100"
+        android:title="@string/mnu_marks"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/mnuOption_home"
+        android:icon="@drawable/home_icon"
+        android:orderInCategory="100"
+        android:title="@string/mnu_home"
+        app:showAsAction="always" />
+
+
+    <item
+        android:id="@+id/mnuOption_settings_icon"
+        android:icon="@drawable/settings_icon"
+        android:orderInCategory="100"
+        android:title="@string/mnu_settings"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/mnuOption_marks"
+        android:title="@string/mnu_marks"/>
+
+    <item
+        android:id="@+id/mnuOption_early_warning"
+        android:title="@string/mnu_early_warning"/>
+
+    <item
+        android:id="@+id/mnuOption_subject_list"
+        android:title="@string/mnu_subject_list"/>
+
+    <item
+        android:id="@+id/mnuOption_eMail_service"
+        android:title="@string/mnu_eMail_service"/>
+
+    <item
+        android:id="@+id/mnuOption_help"
+        android:title="@string/mnu_help"
+        />
+    <item
+        android:id="@+id/mnuOption_settings"
+        android:title="@string/mnu_settings" />
+
+    <item
+        android:id="@+id/mnuOption_credits"
+        android:title="@string/credits"
+        android:actionLayout="@layout/layout_menu"/>
+
+    <item
+        android:id="@+id/mnuOption_exit"
+        android:actionLayout="@layout/settings_headline_layout"
+        android:title="@string/mnu_exit"/>
+</menu>

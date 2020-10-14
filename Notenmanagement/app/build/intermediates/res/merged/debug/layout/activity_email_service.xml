@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.widget.RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="at.htlbraunau.notenmanagement.EmailServiceActivity"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/tv_emailService_header"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/tv_header_emailService"
+        android:textColor="#000000"
+        android:gravity="center"
+        android:textSize="40dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/tv_emailService"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:layout_below="@+id/tv_emailService_header"
+        android:layout_marginTop="15dp"
+        android:text="@string/tv_emailService_text"
+        android:textColor="#000000"
+        android:gravity="center"/>
+
+    <TextView
+        android:id="@+id/tv_emailService_additional_info"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#FFFFFF"
+        android:gravity="center"
+        android:layout_below="@+id/tv_emailService"
+        android:background="@drawable/border_blue_background"
+        android:textSize="25dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginRight="5dp"
+        android:padding="3dp"
+        android:text="@string/tv_additional_info"/>
+
+    <LinearLayout
+        android:id="@+id/ll_eMail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="-2dp"
+        android:layout_marginLeft="5dp"
+        android:layout_below="@+id/tv_emailService_additional_info"
+        android:layout_marginRight="5dp"
+        android:background="@drawable/border_grey_background">
+
+
+        <TextView
+            android:id="@+id/tv_eMail"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:layout_marginBottom="15dp"
+            android:paddingLeft="5dp"
+            android:textSize="15dp"
+            android:layout_weight="1"
+            android:text="@string/tv_eMail"
+            android:textColor="#000000"/>
+
+        <EditText
+            android:id="@+id/edt_eMail"
+            android:layout_width="wrap_content"
+            android:layout_height="35dp"
+            android:layout_weight="1"
+            android:layout_marginTop="15dp"
+            android:layout_marginBottom="15dp"
+            android:layout_marginRight="5dp"
+            android:ems="10"
+            android:paddingLeft="5dp"
+            android:textColor="#000000"
+            android:inputType="textEmailAddress"
+            android:text=""
+            android:background="@drawable/border_white_background"/>
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:layout_below="@+id/ll_eMail"
+        android:background="@drawable/button_shape"
+        android:onClick="onClickedEmail"
+        android:text="@string/btn_save"
+        android:textSize="17dp"
+        android:padding="5dp"
+        android:textColor="#FFFFFF" />
+
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        android:alpha="0.3"
+        app:srcCompat="@mipmap/htl_logo_schwarz_transparent" />
+
+</android.widget.RelativeLayout>

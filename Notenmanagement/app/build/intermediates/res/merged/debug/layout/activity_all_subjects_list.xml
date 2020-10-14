@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.widget.LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="at.htlbraunau.notenmanagement.FragmentActivity.AllSubjectsActivity">
+
+    <fragment class="at.htlbraunau.notenmanagement.FragmentActivity.AllSubjectsFragment"
+        android:id="@+id/subject_list"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:layout="@layout/list_item_subjectswithassessments"/>
+
+</android.widget.LinearLayout>

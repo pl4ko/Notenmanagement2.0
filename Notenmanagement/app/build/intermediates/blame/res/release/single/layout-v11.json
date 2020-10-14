@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\konra\\OneDrive\\Desktop\\Schule\\5DHELS\\Diplomarbeit_Notenmanagement_2.0\\Notenmanagement\\app\\build\\intermediates\\res\\merged\\release\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\konra\\.android\\build-cache\\3567e6e139e342aa067f78cca6118d87f8dfe3c2\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\konra\\OneDrive\\Desktop\\Schule\\5DHELS\\Diplomarbeit_Notenmanagement_2.0\\Notenmanagement\\app\\build\\intermediates\\res\\merged\\release\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\konra\\.android\\build-cache\\3567e6e139e342aa067f78cca6118d87f8dfe3c2\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\konra\\OneDrive\\Desktop\\Schule\\5DHELS\\Diplomarbeit_Notenmanagement_2.0\\Notenmanagement\\app\\build\\intermediates\\res\\merged\\release\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\konra\\.android\\build-cache\\3567e6e139e342aa067f78cca6118d87f8dfe3c2\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\konra\\OneDrive\\Desktop\\Schule\\5DHELS\\Diplomarbeit_Notenmanagement_2.0\\Notenmanagement\\app\\build\\intermediates\\res\\merged\\release\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\konra\\.android\\build-cache\\3567e6e139e342aa067f78cca6118d87f8dfe3c2\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\konra\\OneDrive\\Desktop\\Schule\\5DHELS\\Diplomarbeit_Notenmanagement_2.0\\Notenmanagement\\app\\build\\intermediates\\res\\merged\\release\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\konra\\.android\\build-cache\\3567e6e139e342aa067f78cca6118d87f8dfe3c2\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\konra\\OneDrive\\Desktop\\Schule\\5DHELS\\Diplomarbeit_Notenmanagement_2.0\\Notenmanagement\\app\\build\\intermediates\\res\\merged\\release\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\konra\\.android\\build-cache\\3567e6e139e342aa067f78cca6118d87f8dfe3c2\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    }
+]

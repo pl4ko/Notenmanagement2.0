@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\konra\\OneDrive\\Desktop\\Schule\\5DHELS\\Diplomarbeit_Notenmanagement_2.0\\Android\\Notenmanagement\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\notenmanagement_logo_small_icon.png",
+        "source": "C:\\Users\\konra\\OneDrive\\Desktop\\Schule\\5DHELS\\Diplomarbeit_Notenmanagement_2.0\\Android\\Notenmanagement\\app\\src\\main\\res\\mipmap-xhdpi\\notenmanagement_logo_small_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\konra\\OneDrive\\Desktop\\Schule\\5DHELS\\Diplomarbeit_Notenmanagement_2.0\\Android\\Notenmanagement\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\konra\\OneDrive\\Desktop\\Schule\\5DHELS\\Diplomarbeit_Notenmanagement_2.0\\Android\\Notenmanagement\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\konra\\OneDrive\\Desktop\\Schule\\5DHELS\\Diplomarbeit_Notenmanagement_2.0\\Android\\Notenmanagement\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_notification_on.png",
+        "source": "C:\\Users\\konra\\OneDrive\\Desktop\\Schule\\5DHELS\\Diplomarbeit_Notenmanagement_2.0\\Android\\Notenmanagement\\app\\src\\main\\res\\mipmap-xhdpi\\ic_notification_on.png"
+    },
+    {
+        "merged": "C:\\Users\\konra\\OneDrive\\Desktop\\Schule\\5DHELS\\Diplomarbeit_Notenmanagement_2.0\\Android\\Notenmanagement\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_diplay_on.png",
+        "source": "C:\\Users\\konra\\OneDrive\\Desktop\\Schule\\5DHELS\\Diplomarbeit_Notenmanagement_2.0\\Android\\Notenmanagement\\app\\src\\main\\res\\mipmap-xhdpi\\ic_diplay_on.png"
+    },
+    {
+        "merged": "C:\\Users\\konra\\OneDrive\\Desktop\\Schule\\5DHELS\\Diplomarbeit_Notenmanagement_2.0\\Android\\Notenmanagement\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_vibration.png",
+        "source": "C:\\Users\\konra\\OneDrive\\Desktop\\Schule\\5DHELS\\Diplomarbeit_Notenmanagement_2.0\\Android\\Notenmanagement\\app\\src\\main\\res\\mipmap-xhdpi\\ic_vibration.png"
+    },
+    {
+        "merged": "C:\\Users\\konra\\OneDrive\\Desktop\\Schule\\5DHELS\\Diplomarbeit_Notenmanagement_2.0\\Android\\Notenmanagement\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_speaker.png",
+        "source": "C:\\Users\\konra\\OneDrive\\Desktop\\Schule\\5DHELS\\Diplomarbeit_Notenmanagement_2.0\\Android\\Notenmanagement\\app\\src\\main\\res\\mipmap-xhdpi\\ic_speaker.png"
+    },
+    {
+        "merged": "C:\\Users\\konra\\OneDrive\\Desktop\\Schule\\5DHELS\\Diplomarbeit_Notenmanagement_2.0\\Android\\Notenmanagement\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher_round.png",
+        "source": "C:\\Users\\konra\\OneDrive\\Desktop\\Schule\\5DHELS\\Diplomarbeit_Notenmanagement_2.0\\Android\\Notenmanagement\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\konra\\OneDrive\\Desktop\\Schule\\5DHELS\\Diplomarbeit_Notenmanagement_2.0\\Android\\Notenmanagement\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_notification_off.png",
+        "source": "C:\\Users\\konra\\OneDrive\\Desktop\\Schule\\5DHELS\\Diplomarbeit_Notenmanagement_2.0\\Android\\Notenmanagement\\app\\src\\main\\res\\mipmap-xhdpi\\ic_notification_off.png"
+    }
+]

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">139811182483-a7o0fka6qkomlubhv1c1lph7gt6bn2jf.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://htlbraunaunotenmanagement.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">139811182483</string>
+    <string name="google_api_key" translatable="false">AIzaSyBACZxRMLQcEc5hqcsd3cgvviZcrctZRII</string>
+    <string name="google_app_id" translatable="false">1:139811182483:android:e2698eea9951eb6f</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBACZxRMLQcEc5hqcsd3cgvviZcrctZRII</string>
+    <string name="google_storage_bucket" translatable="false">htlbraunaunotenmanagement.appspot.com</string>
+    <string name="project_id" translatable="false">htlbraunaunotenmanagement</string>
+</resources>

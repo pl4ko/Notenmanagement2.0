@@ -1,0 +1,93 @@
+<resources>
+    <string name="NOTENMANAGEMENT_SERVER_BASE_URL">"http://notenmanagement.htl-braunau.at/rest"</string>
+    <string name="subject">Fach</string>
+    <string name="newEmail">Neue Email: </string>
+    <string name="newAssessmnet">Neue Leistungsfeststellung!</string>
+    <string name="invalidEmail">Ungültige Email-Adresse!</string>
+    <string name="emailChangeFailed">Änderung der Email fehlgeschlagen!</string>
+    <string name="emailChangeSuccessful">Email erfolgreich geändert!\nNeue Email:</string>
+    <string  name="messageToHelpDesk">Nachricht an Helpdesk</string>
+    <string name="noEarlyWarningsAvailable">Keine Frühwarnungen vorhanden</string>
+    <string name="subjectMail">Betreff</string>
+    <string name="assessmentsOfStudent">Leistungsfeststellungen von</string>
+    <string name="in">in</string>
+    <string name="firstTerm">1.Semester</string>
+    <string name="secondTerm">2.Semester</string>
+    <string name="settings_fragment_tag">settings_fragment</string>
+    <string name="app_name_short">Noten</string>
+    <string name="app_name_long">Notenmanagement</string>
+    <string name="edt_benutzer_text">Benutzer</string>
+    <string name="edt_password_text">Passwort</string>
+    <string name="btn_login"> Anmelden</string>
+    <string name="btn_save">Speichern</string>
+    <string name="btn_sendMessage">Nachricht senden</string>
+    <string name="toast_login_failed">Login fehlgeschlagen!</string>
+    <string name="alert_token">Sie werden in 5 Minuten abgemeldet</string>
+    <string name="alert_close">Schließen</string>
+    <string name="alert_title">Achtung</string>
+    <string name="tv_header_login">Login</string>
+    <string name="tv_header_home_pupil_activity">Willkommen beim Notenmanagement der HTL Braunau</string>
+    <string name="tv_header_list">Die letzten 5 Einträge</string>
+    <string name="tv_header_general">Allgemeines</string>
+    <string name="tv_header_result">Ergebnis</string>
+    <string name="tv_header_overview">Notenspiegel</string>
+    <string name="tv_header_all_marks">Leistungsfeststellungen von</string>
+    <string name="tv_header_all_earlyWarnings">Frühwarnungen von</string>
+    <string name="tv_grid_item_header_allmarks">Leistungsfeststellung in</string>
+    <string name="tv_list_of_subjects">Fächerliste</string>
+    <string name="tv_header_emailService">eMail-Service</string>
+    <string name="tv_emailService_text">Benachrichtigungen erfolgen automatisch auf die eMail-Adresse der HTL-Braunau</string>
+    <string name="tv_MailOfUser">E-Mail Adresse</string>
+    <string name="tv_Message">Nachricht</string>
+    <string name="tv_additional_info">Zusätzliche Information</string>
+    <string name="tv_eMail">E-Mail Adresse</string>
+    <string name="gv_item_info">Kurzinfo</string>
+    <string name="gv_item_maxPoints">Max. Punkte</string>
+    <string name="gv_item_date">Datum</string>
+    <string name="gv_item_points">Punkte</string>
+    <string name="gv_item_mark">Note</string>
+    <string name="gv_item_percent">Prozent</string>
+    <string name="gv_item_comment">Kommentar</string>
+    <string name="mnu_home">Home</string>
+    <string name="mnu_marks">Noten</string>
+    <string name="mnu_early_warning">Frühwarnungen</string>
+    <string name="mnu_subject_list">Fächerliste</string>
+    <string name="mnu_eMail_service">eMail-Service</string>
+    <string name="mnu_help">Hilfe</string>
+    <string name="mnu_settings">Einstellungen</string>
+    <string name="mnu_exit">Logout</string>
+    <string name="swVibration_key">vibration</string>
+    <string name="swSound_key">sound</string>
+    <string name="swWakeup_key">wakeup</string>
+    <string name="switchpreference_vibration">Vibration</string>
+    <string name="switchpreference_sound">Ton</string>
+    <string name="switchpreference_wakeup">Aufwecken</string>
+    <string name="checkPush_key">pushNotification</string>
+    <string name="checkboxpreference_pushnotification">Push-Benachrichtigungen</string>
+    <string name="sw_remember_data">Login merken</string>
+    <string name="credits_school">Höhere Technische Bundeslehranstalt und Bundesfachschule \r\n
+
+Hermann Fuchs Bundesschulzentrum\r\n
+\r\n
+A-5280 Braunau am Inn, Osternbergstr. 55\r\n
+\r\n
+Tel: 07722 / 83690-0\r\n
+\r\n
+Fax: 07722 / 8369 - 255\r\n
+\r\n
+www.htl-braunau.at\r\n
+\r\n
+
+Diplomarbeit 5DHELS 2017/18\r\n
+\r\n
+Konrad Plasser\r\n
+\r\n
+Sebastian Redinger\r\n
+\r\n
+
+Projektbetreuer: DI Gerhard Waser \r\n\r\n
+
+</string>
+    <string name="credits">Impressum</string>
+
+</resources>

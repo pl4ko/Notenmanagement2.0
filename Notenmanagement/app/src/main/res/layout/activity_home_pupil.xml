@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.widget.RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="at.htlbraunau.notenmanagement.HomePupilActivity">
+
+    <TextView
+        android:id="@+id/tv_header_home_pupil_activity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/tv_header_home_pupil_activity"
+        android:textColor="#000000"
+        android:gravity="center"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:textSize="35dp" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tv_header_home_pupil_activity"
+        android:orientation="vertical"
+        android:layout_margin="15dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/colorWhite"
+                android:text="@string/tv_header_list"
+                android:textSize="25dp"
+                android:padding="5dp"
+                android:gravity="center_horizontal"
+                android:background="@drawable/border_blue_background"/>
+
+            <ListView
+                android:id="@+id/lv_last_five_assessments"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="-2dp"
+                android:background="@drawable/border_grey_background"
+                android:layout_below="@+id/tv_header_home_pupil_activity"/>
+    </LinearLayout>
+
+</android.widget.RelativeLayout>
+
+

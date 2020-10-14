@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\konra\.android\build-cache\2ed3bf596d714acf8f8fad8d0f7a731113558b82\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="e5b429c146094a612134910688d169ec08deeefb">
+        <dex dex="C:\Users\konra\OneDrive\Desktop\Schule\5DHELS\Diplomarbeit_Notenmanagement_2.0\Notenmanagement\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f063f4ef1daa95989d2d6e057f1d066b0f8a7b18\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\konra\.android\build-cache\ebc451b27fedcdb60a57a86736278535d126db03\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="e1625e48a836779b5fa141d22e5d05563aaccc9a">
+        <dex dex="C:\Users\konra\OneDrive\Desktop\Schule\5DHELS\Diplomarbeit_Notenmanagement_2.0\Notenmanagement\app\build\intermediates\pre-dexed\debug\classes_70421d779430495e7283597d0e1b5255fcbce066.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\konra\.android\build-cache\ebc451b27fedcdb60a57a86736278535d126db03\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="e1625e48a836779b5fa141d22e5d05563aaccc9a">
+        <dex dex="C:\Users\konra\OneDrive\Desktop\Schule\5DHELS\Diplomarbeit_Notenmanagement_2.0\Notenmanagement\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_70421d779430495e7283597d0e1b5255fcbce066\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\konra\.android\build-cache\2ed3bf596d714acf8f8fad8d0f7a731113558b82\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="e5b429c146094a612134910688d169ec08deeefb">
+        <dex dex="C:\Users\konra\OneDrive\Desktop\Schule\5DHELS\Diplomarbeit_Notenmanagement_2.0\Notenmanagement\app\build\intermediates\pre-dexed\debug\classes_f063f4ef1daa95989d2d6e057f1d066b0f8a7b18.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\konra\OneDrive\Desktop\Schule\5DHELS\Diplomarbeit_Notenmanagement_2.0\Notenmanagement\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="c323c36ecc68965c4cfb460f7721113d2b61ed03">
+        <dex dex="C:\Users\konra\OneDrive\Desktop\Schule\5DHELS\Diplomarbeit_Notenmanagement_2.0\Notenmanagement\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_3995ca3a90af9a612080f73e8a3e8fe36483a940\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\konra\OneDrive\Desktop\Schule\5DHELS\Diplomarbeit_Notenmanagement_2.0\Notenmanagement\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="42e09c8fbf06457d09ff54e8e594c8a3fc5fcd0e">
+        <dex dex="C:\Users\konra\OneDrive\Desktop\Schule\5DHELS\Diplomarbeit_Notenmanagement_2.0\Notenmanagement\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_bba341a241963adb550f12eaed5b2f8c2fce61f4\classes.dex" />
+    </item>
+
+</items>

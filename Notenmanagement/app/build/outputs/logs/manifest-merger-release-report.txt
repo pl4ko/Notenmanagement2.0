@@ -1,0 +1,308 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\konra\OneDrive\Desktop\Schule\5DHELS\Diplomarbeit_Notenmanagement_2.0\Notenmanagement\app\src\main\AndroidManifest.xml:2:1-71:12
+	package
+		ADDED from C:\Users\konra\OneDrive\Desktop\Schule\5DHELS\Diplomarbeit_Notenmanagement_2.0\Notenmanagement\app\src\main\AndroidManifest.xml:4:5-44
+		INJECTED from C:\Users\konra\OneDrive\Desktop\Schule\5DHELS\Diplomarbeit_Notenmanagement_2.0\Notenmanagement\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\konra\OneDrive\Desktop\Schule\5DHELS\Diplomarbeit_Notenmanagement_2.0\Notenmanagement\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\konra\OneDrive\Desktop\Schule\5DHELS\Diplomarbeit_Notenmanagement_2.0\Notenmanagement\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\konra\OneDrive\Desktop\Schule\5DHELS\Diplomarbeit_Notenmanagement_2.0\Notenmanagement\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\konra\OneDrive\Desktop\Schule\5DHELS\Diplomarbeit_Notenmanagement_2.0\Notenmanagement\app\src\main\AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from C:\Users\konra\OneDrive\Desktop\Schule\5DHELS\Diplomarbeit_Notenmanagement_2.0\Notenmanagement\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\konra\OneDrive\Desktop\Schule\5DHELS\Diplomarbeit_Notenmanagement_2.0\Notenmanagement\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\konra\OneDrive\Desktop\Schule\5DHELS\Diplomarbeit_Notenmanagement_2.0\Notenmanagement\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from C:\Users\konra\OneDrive\Desktop\Schule\5DHELS\Diplomarbeit_Notenmanagement_2.0\Notenmanagement\app\src\main\AndroidManifest.xml:6:5-43
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\konra\.android\build-cache\3567e6e139e342aa067f78cca6118d87f8dfe3c2\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\konra\.android\build-cache\dbbcd22c41875d866efecb71bc8df8b44b7af801\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\konra\.android\build-cache\add245d37ff6359072bd872c3bc7db8451129d9d\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\konra\.android\build-cache\1ae2a687751dac604809083da8cff97f4c187b42\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-messaging:11.0.4] C:\Users\konra\.android\build-cache\67273a61d0d52b8a9a9837d6b8e7f8a4fa64b3ab\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-core:11.0.4] C:\Users\konra\.android\build-cache\30674c740fbc879e0a1c858dd5016cb6cb591be0\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\konra\.android\build-cache\2ed3bf596d714acf8f8fad8d0f7a731113558b82\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\konra\.android\build-cache\ebc451b27fedcdb60a57a86736278535d126db03\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\konra\.android\build-cache\4a5fb37ce345f70509a6c9f3f8831d09848aa2e4\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-common:11.0.4] C:\Users\konra\.android\build-cache\1ea69dbafce38d7ed7bc7caca7d4f2b4dc26650a\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\konra\.android\build-cache\5a623ec46964b91f117f2e9ad8dbae545da800c1\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\konra\.android\build-cache\46e1a5aed49407a623aa2690dbb1a8aae4b98aaa\output\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\konra\.android\build-cache\76aa02b956b7a30cf99ce280d0f3bf3603fa6c82\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\konra\.android\build-cache\e5d45485665f9517ed24c5ac9f62d8a157a0caaf\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\konra\.android\build-cache\c294640355891a4390fcf18e7ad5a6bf54b9fa36\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\konra\.android\build-cache\31163e4ac342f297462b736d8132b5e237cafb55\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\konra\.android\build-cache\69adaeb55ea2963c89b793e677d4ed4885901e92\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\konra\.android\build-cache\c809bff3445961cd2fa9c659ebbfd4fab756e700\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\konra\.android\build-cache\3567e6e139e342aa067f78cca6118d87f8dfe3c2\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\konra\OneDrive\Desktop\Schule\5DHELS\Diplomarbeit_Notenmanagement_2.0\Notenmanagement\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\konra\OneDrive\Desktop\Schule\5DHELS\Diplomarbeit_Notenmanagement_2.0\Notenmanagement\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\konra\OneDrive\Desktop\Schule\5DHELS\Diplomarbeit_Notenmanagement_2.0\Notenmanagement\app\src\main\AndroidManifest.xml:6:15-40
+		INJECTED from C:\Users\konra\OneDrive\Desktop\Schule\5DHELS\Diplomarbeit_Notenmanagement_2.0\Notenmanagement\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\konra\OneDrive\Desktop\Schule\5DHELS\Diplomarbeit_Notenmanagement_2.0\Notenmanagement\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\konra\OneDrive\Desktop\Schule\5DHELS\Diplomarbeit_Notenmanagement_2.0\Notenmanagement\app\src\main\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\konra\.android\build-cache\2ed3bf596d714acf8f8fad8d0f7a731113558b82\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\konra\.android\build-cache\ebc451b27fedcdb60a57a86736278535d126db03\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\konra\.android\build-cache\4a5fb37ce345f70509a6c9f3f8831d09848aa2e4\output\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from C:\Users\konra\OneDrive\Desktop\Schule\5DHELS\Diplomarbeit_Notenmanagement_2.0\Notenmanagement\app\src\main\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\konra\OneDrive\Desktop\Schule\5DHELS\Diplomarbeit_Notenmanagement_2.0\Notenmanagement\app\src\main\AndroidManifest.xml:12:5-66
+	android:name
+		ADDED from C:\Users\konra\OneDrive\Desktop\Schule\5DHELS\Diplomarbeit_Notenmanagement_2.0\Notenmanagement\app\src\main\AndroidManifest.xml:12:22-63
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\konra\OneDrive\Desktop\Schule\5DHELS\Diplomarbeit_Notenmanagement_2.0\Notenmanagement\app\src\main\AndroidManifest.xml:13:5-68
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\konra\.android\build-cache\2ed3bf596d714acf8f8fad8d0f7a731113558b82\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\konra\.android\build-cache\ebc451b27fedcdb60a57a86736278535d126db03\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\konra\.android\build-cache\4a5fb37ce345f70509a6c9f3f8831d09848aa2e4\output\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from C:\Users\konra\OneDrive\Desktop\Schule\5DHELS\Diplomarbeit_Notenmanagement_2.0\Notenmanagement\app\src\main\AndroidManifest.xml:13:22-65
+application
+ADDED from C:\Users\konra\OneDrive\Desktop\Schule\5DHELS\Diplomarbeit_Notenmanagement_2.0\Notenmanagement\app\src\main\AndroidManifest.xml:15:5-69:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\konra\.android\build-cache\3567e6e139e342aa067f78cca6118d87f8dfe3c2\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\konra\.android\build-cache\dbbcd22c41875d866efecb71bc8df8b44b7af801\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\konra\.android\build-cache\add245d37ff6359072bd872c3bc7db8451129d9d\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\konra\.android\build-cache\1ae2a687751dac604809083da8cff97f4c187b42\output\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-messaging:11.0.4] C:\Users\konra\.android\build-cache\67273a61d0d52b8a9a9837d6b8e7f8a4fa64b3ab\output\AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.firebase:firebase-core:11.0.4] C:\Users\konra\.android\build-cache\30674c740fbc879e0a1c858dd5016cb6cb591be0\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\konra\.android\build-cache\2ed3bf596d714acf8f8fad8d0f7a731113558b82\output\AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\konra\.android\build-cache\ebc451b27fedcdb60a57a86736278535d126db03\output\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\konra\.android\build-cache\4a5fb37ce345f70509a6c9f3f8831d09848aa2e4\output\AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-common:11.0.4] C:\Users\konra\.android\build-cache\1ea69dbafce38d7ed7bc7caca7d4f2b4dc26650a\output\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\konra\.android\build-cache\5a623ec46964b91f117f2e9ad8dbae545da800c1\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\konra\.android\build-cache\46e1a5aed49407a623aa2690dbb1a8aae4b98aaa\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\konra\.android\build-cache\76aa02b956b7a30cf99ce280d0f3bf3603fa6c82\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\konra\.android\build-cache\e5d45485665f9517ed24c5ac9f62d8a157a0caaf\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\konra\.android\build-cache\c294640355891a4390fcf18e7ad5a6bf54b9fa36\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\konra\.android\build-cache\31163e4ac342f297462b736d8132b5e237cafb55\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\konra\.android\build-cache\69adaeb55ea2963c89b793e677d4ed4885901e92\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\konra\.android\build-cache\c809bff3445961cd2fa9c659ebbfd4fab756e700\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\konra\OneDrive\Desktop\Schule\5DHELS\Diplomarbeit_Notenmanagement_2.0\Notenmanagement\app\src\main\AndroidManifest.xml:20:9-47
+	android:supportsRtl
+		ADDED from C:\Users\konra\OneDrive\Desktop\Schule\5DHELS\Diplomarbeit_Notenmanagement_2.0\Notenmanagement\app\src\main\AndroidManifest.xml:21:9-35
+	android:debuggable
+		ADDED from C:\Users\konra\OneDrive\Desktop\Schule\5DHELS\Diplomarbeit_Notenmanagement_2.0\Notenmanagement\app\src\main\AndroidManifest.xml:16:9-35
+	tools:ignore
+		ADDED from C:\Users\konra\OneDrive\Desktop\Schule\5DHELS\Diplomarbeit_Notenmanagement_2.0\Notenmanagement\app\src\main\AndroidManifest.xml:23:9-42
+	android:allowBackup
+		ADDED from C:\Users\konra\OneDrive\Desktop\Schule\5DHELS\Diplomarbeit_Notenmanagement_2.0\Notenmanagement\app\src\main\AndroidManifest.xml:18:9-35
+	android:icon
+		ADDED from C:\Users\konra\OneDrive\Desktop\Schule\5DHELS\Diplomarbeit_Notenmanagement_2.0\Notenmanagement\app\src\main\AndroidManifest.xml:19:9-56
+	android:theme
+		ADDED from C:\Users\konra\OneDrive\Desktop\Schule\5DHELS\Diplomarbeit_Notenmanagement_2.0\Notenmanagement\app\src\main\AndroidManifest.xml:22:9-40
+	android:name
+		ADDED from C:\Users\konra\OneDrive\Desktop\Schule\5DHELS\Diplomarbeit_Notenmanagement_2.0\Notenmanagement\app\src\main\AndroidManifest.xml:17:9-72
+activity#at.htlbraunau.notenmanagement.LoginActivity
+ADDED from C:\Users\konra\OneDrive\Desktop\Schule\5DHELS\Diplomarbeit_Notenmanagement_2.0\Notenmanagement\app\src\main\AndroidManifest.xml:25:9-31:20
+	android:name
+		ADDED from C:\Users\konra\OneDrive\Desktop\Schule\5DHELS\Diplomarbeit_Notenmanagement_2.0\Notenmanagement\app\src\main\AndroidManifest.xml:25:19-77
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\konra\OneDrive\Desktop\Schule\5DHELS\Diplomarbeit_Notenmanagement_2.0\Notenmanagement\app\src\main\AndroidManifest.xml:26:13-30:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\konra\OneDrive\Desktop\Schule\5DHELS\Diplomarbeit_Notenmanagement_2.0\Notenmanagement\app\src\main\AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from C:\Users\konra\OneDrive\Desktop\Schule\5DHELS\Diplomarbeit_Notenmanagement_2.0\Notenmanagement\app\src\main\AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\konra\OneDrive\Desktop\Schule\5DHELS\Diplomarbeit_Notenmanagement_2.0\Notenmanagement\app\src\main\AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from C:\Users\konra\OneDrive\Desktop\Schule\5DHELS\Diplomarbeit_Notenmanagement_2.0\Notenmanagement\app\src\main\AndroidManifest.xml:29:27-74
+activity#at.htlbraunau.notenmanagement.HomePupilActivity
+ADDED from C:\Users\konra\OneDrive\Desktop\Schule\5DHELS\Diplomarbeit_Notenmanagement_2.0\Notenmanagement\app\src\main\AndroidManifest.xml:33:9-83
+	android:name
+		ADDED from C:\Users\konra\OneDrive\Desktop\Schule\5DHELS\Diplomarbeit_Notenmanagement_2.0\Notenmanagement\app\src\main\AndroidManifest.xml:33:19-81
+activity#at.htlbraunau.notenmanagement.SelectedAssessmentActivity
+ADDED from C:\Users\konra\OneDrive\Desktop\Schule\5DHELS\Diplomarbeit_Notenmanagement_2.0\Notenmanagement\app\src\main\AndroidManifest.xml:35:9-92
+	android:name
+		ADDED from C:\Users\konra\OneDrive\Desktop\Schule\5DHELS\Diplomarbeit_Notenmanagement_2.0\Notenmanagement\app\src\main\AndroidManifest.xml:35:19-90
+activity#at.htlbraunau.notenmanagement.ListOfSubjects
+ADDED from C:\Users\konra\OneDrive\Desktop\Schule\5DHELS\Diplomarbeit_Notenmanagement_2.0\Notenmanagement\app\src\main\AndroidManifest.xml:37:9-80
+	android:name
+		ADDED from C:\Users\konra\OneDrive\Desktop\Schule\5DHELS\Diplomarbeit_Notenmanagement_2.0\Notenmanagement\app\src\main\AndroidManifest.xml:37:19-78
+activity#at.htlbraunau.notenmanagement.EmailServiceActivity
+ADDED from C:\Users\konra\OneDrive\Desktop\Schule\5DHELS\Diplomarbeit_Notenmanagement_2.0\Notenmanagement\app\src\main\AndroidManifest.xml:39:9-86
+	android:name
+		ADDED from C:\Users\konra\OneDrive\Desktop\Schule\5DHELS\Diplomarbeit_Notenmanagement_2.0\Notenmanagement\app\src\main\AndroidManifest.xml:39:19-84
+activity#at.htlbraunau.notenmanagement.EarlyWarnings
+ADDED from C:\Users\konra\OneDrive\Desktop\Schule\5DHELS\Diplomarbeit_Notenmanagement_2.0\Notenmanagement\app\src\main\AndroidManifest.xml:41:9-79
+	android:name
+		ADDED from C:\Users\konra\OneDrive\Desktop\Schule\5DHELS\Diplomarbeit_Notenmanagement_2.0\Notenmanagement\app\src\main\AndroidManifest.xml:41:19-77
+activity#at.htlbraunau.notenmanagement.HelpActivity
+ADDED from C:\Users\konra\OneDrive\Desktop\Schule\5DHELS\Diplomarbeit_Notenmanagement_2.0\Notenmanagement\app\src\main\AndroidManifest.xml:44:9-78
+	android:name
+		ADDED from C:\Users\konra\OneDrive\Desktop\Schule\5DHELS\Diplomarbeit_Notenmanagement_2.0\Notenmanagement\app\src\main\AndroidManifest.xml:44:19-76
+activity#at.htlbraunau.notenmanagement.CreditsActivity
+ADDED from C:\Users\konra\OneDrive\Desktop\Schule\5DHELS\Diplomarbeit_Notenmanagement_2.0\Notenmanagement\app\src\main\AndroidManifest.xml:46:9-81
+	android:name
+		ADDED from C:\Users\konra\OneDrive\Desktop\Schule\5DHELS\Diplomarbeit_Notenmanagement_2.0\Notenmanagement\app\src\main\AndroidManifest.xml:46:19-79
+activity#at.htlbraunau.notenmanagement.FragmentActivity.AllSubjectsActivity
+ADDED from C:\Users\konra\OneDrive\Desktop\Schule\5DHELS\Diplomarbeit_Notenmanagement_2.0\Notenmanagement\app\src\main\AndroidManifest.xml:49:9-103
+	android:name
+		ADDED from C:\Users\konra\OneDrive\Desktop\Schule\5DHELS\Diplomarbeit_Notenmanagement_2.0\Notenmanagement\app\src\main\AndroidManifest.xml:49:19-100
+activity#at.htlbraunau.notenmanagement.FragmentActivity.AllMarksDetailsActivity
+ADDED from C:\Users\konra\OneDrive\Desktop\Schule\5DHELS\Diplomarbeit_Notenmanagement_2.0\Notenmanagement\app\src\main\AndroidManifest.xml:51:9-107
+	android:name
+		ADDED from C:\Users\konra\OneDrive\Desktop\Schule\5DHELS\Diplomarbeit_Notenmanagement_2.0\Notenmanagement\app\src\main\AndroidManifest.xml:51:19-104
+activity#at.htlbraunau.notenmanagement.MenuOptionsActivity
+ADDED from C:\Users\konra\OneDrive\Desktop\Schule\5DHELS\Diplomarbeit_Notenmanagement_2.0\Notenmanagement\app\src\main\AndroidManifest.xml:53:9-85
+	android:name
+		ADDED from C:\Users\konra\OneDrive\Desktop\Schule\5DHELS\Diplomarbeit_Notenmanagement_2.0\Notenmanagement\app\src\main\AndroidManifest.xml:53:19-83
+activity#at.htlbraunau.notenmanagement.SettingsActivity
+ADDED from C:\Users\konra\OneDrive\Desktop\Schule\5DHELS\Diplomarbeit_Notenmanagement_2.0\Notenmanagement\app\src\main\AndroidManifest.xml:55:9-82
+	android:name
+		ADDED from C:\Users\konra\OneDrive\Desktop\Schule\5DHELS\Diplomarbeit_Notenmanagement_2.0\Notenmanagement\app\src\main\AndroidManifest.xml:55:19-80
+service#at.htlbraunau.notenmanagement.MyFirebaseInstanceIDService
+ADDED from C:\Users\konra\OneDrive\Desktop\Schule\5DHELS\Diplomarbeit_Notenmanagement_2.0\Notenmanagement\app\src\main\AndroidManifest.xml:57:9-61:19
+	android:name
+		ADDED from C:\Users\konra\OneDrive\Desktop\Schule\5DHELS\Diplomarbeit_Notenmanagement_2.0\Notenmanagement\app\src\main\AndroidManifest.xml:57:18-90
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from C:\Users\konra\OneDrive\Desktop\Schule\5DHELS\Diplomarbeit_Notenmanagement_2.0\Notenmanagement\app\src\main\AndroidManifest.xml:58:13-60:29
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from C:\Users\konra\OneDrive\Desktop\Schule\5DHELS\Diplomarbeit_Notenmanagement_2.0\Notenmanagement\app\src\main\AndroidManifest.xml:59:17-80
+	android:name
+		ADDED from C:\Users\konra\OneDrive\Desktop\Schule\5DHELS\Diplomarbeit_Notenmanagement_2.0\Notenmanagement\app\src\main\AndroidManifest.xml:59:25-77
+service#at.htlbraunau.notenmanagement.MyFirebaseMessagingService
+ADDED from C:\Users\konra\OneDrive\Desktop\Schule\5DHELS\Diplomarbeit_Notenmanagement_2.0\Notenmanagement\app\src\main\AndroidManifest.xml:63:9-67:19
+	android:name
+		ADDED from C:\Users\konra\OneDrive\Desktop\Schule\5DHELS\Diplomarbeit_Notenmanagement_2.0\Notenmanagement\app\src\main\AndroidManifest.xml:63:18-89
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from C:\Users\konra\OneDrive\Desktop\Schule\5DHELS\Diplomarbeit_Notenmanagement_2.0\Notenmanagement\app\src\main\AndroidManifest.xml:64:13-66:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from C:\Users\konra\OneDrive\Desktop\Schule\5DHELS\Diplomarbeit_Notenmanagement_2.0\Notenmanagement\app\src\main\AndroidManifest.xml:65:17-78
+	android:name
+		ADDED from C:\Users\konra\OneDrive\Desktop\Schule\5DHELS\Diplomarbeit_Notenmanagement_2.0\Notenmanagement\app\src\main\AndroidManifest.xml:65:25-75
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\konra\.android\build-cache\3567e6e139e342aa067f78cca6118d87f8dfe3c2\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\konra\.android\build-cache\dbbcd22c41875d866efecb71bc8df8b44b7af801\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\konra\.android\build-cache\add245d37ff6359072bd872c3bc7db8451129d9d\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\konra\.android\build-cache\76aa02b956b7a30cf99ce280d0f3bf3603fa6c82\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\konra\.android\build-cache\e5d45485665f9517ed24c5ac9f62d8a157a0caaf\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\konra\.android\build-cache\c294640355891a4390fcf18e7ad5a6bf54b9fa36\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\konra\.android\build-cache\31163e4ac342f297462b736d8132b5e237cafb55\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\konra\.android\build-cache\69adaeb55ea2963c89b793e677d4ed4885901e92\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\konra\.android\build-cache\c809bff3445961cd2fa9c659ebbfd4fab756e700\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\konra\.android\build-cache\3567e6e139e342aa067f78cca6118d87f8dfe3c2\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\konra\.android\build-cache\3567e6e139e342aa067f78cca6118d87f8dfe3c2\output\AndroidManifest.xml:26:9-47
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:11.0.4] C:\Users\konra\.android\build-cache\67273a61d0d52b8a9a9837d6b8e7f8a4fa64b3ab\output\AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:11.0.4] C:\Users\konra\.android\build-cache\67273a61d0d52b8a9a9837d6b8e7f8a4fa64b3ab\output\AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.0.4] C:\Users\konra\.android\build-cache\67273a61d0d52b8a9a9837d6b8e7f8a4fa64b3ab\output\AndroidManifest.xml:23:18-87
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\konra\.android\build-cache\2ed3bf596d714acf8f8fad8d0f7a731113558b82\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\konra\.android\build-cache\ebc451b27fedcdb60a57a86736278535d126db03\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\konra\.android\build-cache\4a5fb37ce345f70509a6c9f3f8831d09848aa2e4\output\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\konra\.android\build-cache\2ed3bf596d714acf8f8fad8d0f7a731113558b82\output\AndroidManifest.xml:21:22-76
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\konra\.android\build-cache\2ed3bf596d714acf8f8fad8d0f7a731113558b82\output\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\konra\.android\build-cache\ebc451b27fedcdb60a57a86736278535d126db03\output\AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\konra\.android\build-cache\2ed3bf596d714acf8f8fad8d0f7a731113558b82\output\AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\konra\.android\build-cache\2ed3bf596d714acf8f8fad8d0f7a731113558b82\output\AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\konra\.android\build-cache\2ed3bf596d714acf8f8fad8d0f7a731113558b82\output\AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\konra\.android\build-cache\2ed3bf596d714acf8f8fad8d0f7a731113558b82\output\AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\konra\.android\build-cache\2ed3bf596d714acf8f8fad8d0f7a731113558b82\output\AndroidManifest.xml:27:162-184
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\konra\.android\build-cache\2ed3bf596d714acf8f8fad8d0f7a731113558b82\output\AndroidManifest.xml:27:185-208
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\konra\.android\build-cache\2ed3bf596d714acf8f8fad8d0f7a731113558b82\output\AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\konra\.android\build-cache\2ed3bf596d714acf8f8fad8d0f7a731113558b82\output\AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\konra\.android\build-cache\2ed3bf596d714acf8f8fad8d0f7a731113558b82\output\AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\konra\.android\build-cache\2ed3bf596d714acf8f8fad8d0f7a731113558b82\output\AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\konra\.android\build-cache\2ed3bf596d714acf8f8fad8d0f7a731113558b82\output\AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\konra\.android\build-cache\2ed3bf596d714acf8f8fad8d0f7a731113558b82\output\AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\konra\.android\build-cache\ebc451b27fedcdb60a57a86736278535d126db03\output\AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\konra\.android\build-cache\2ed3bf596d714acf8f8fad8d0f7a731113558b82\output\AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\konra\.android\build-cache\2ed3bf596d714acf8f8fad8d0f7a731113558b82\output\AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\konra\.android\build-cache\2ed3bf596d714acf8f8fad8d0f7a731113558b82\output\AndroidManifest.xml:32:16-87
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\konra\.android\build-cache\2ed3bf596d714acf8f8fad8d0f7a731113558b82\output\AndroidManifest.xml:33:7-197
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\konra\.android\build-cache\2ed3bf596d714acf8f8fad8d0f7a731113558b82\output\AndroidManifest.xml:33:148-170
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\konra\.android\build-cache\2ed3bf596d714acf8f8fad8d0f7a731113558b82\output\AndroidManifest.xml:33:171-195
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\konra\.android\build-cache\2ed3bf596d714acf8f8fad8d0f7a731113558b82\output\AndroidManifest.xml:33:91-147
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\konra\.android\build-cache\2ed3bf596d714acf8f8fad8d0f7a731113558b82\output\AndroidManifest.xml:33:16-90
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\konra\.android\build-cache\4a5fb37ce345f70509a6c9f3f8831d09848aa2e4\output\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\konra\.android\build-cache\4a5fb37ce345f70509a6c9f3f8831d09848aa2e4\output\AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\konra\.android\build-cache\4a5fb37ce345f70509a6c9f3f8831d09848aa2e4\output\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\konra\.android\build-cache\4a5fb37ce345f70509a6c9f3f8831d09848aa2e4\output\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\konra\.android\build-cache\4a5fb37ce345f70509a6c9f3f8831d09848aa2e4\output\AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\konra\.android\build-cache\4a5fb37ce345f70509a6c9f3f8831d09848aa2e4\output\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\konra\.android\build-cache\4a5fb37ce345f70509a6c9f3f8831d09848aa2e4\output\AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\konra\.android\build-cache\4a5fb37ce345f70509a6c9f3f8831d09848aa2e4\output\AndroidManifest.xml:30:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\konra\.android\build-cache\4a5fb37ce345f70509a6c9f3f8831d09848aa2e4\output\AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\konra\.android\build-cache\4a5fb37ce345f70509a6c9f3f8831d09848aa2e4\output\AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\konra\.android\build-cache\4a5fb37ce345f70509a6c9f3f8831d09848aa2e4\output\AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\konra\.android\build-cache\4a5fb37ce345f70509a6c9f3f8831d09848aa2e4\output\AndroidManifest.xml:31:13-34:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\konra\.android\build-cache\4a5fb37ce345f70509a6c9f3f8831d09848aa2e4\output\AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\konra\.android\build-cache\4a5fb37ce345f70509a6c9f3f8831d09848aa2e4\output\AndroidManifest.xml:32:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\konra\.android\build-cache\4a5fb37ce345f70509a6c9f3f8831d09848aa2e4\output\AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\konra\.android\build-cache\4a5fb37ce345f70509a6c9f3f8831d09848aa2e4\output\AndroidManifest.xml:33:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\konra\.android\build-cache\4a5fb37ce345f70509a6c9f3f8831d09848aa2e4\output\AndroidManifest.xml:39:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\konra\.android\build-cache\4a5fb37ce345f70509a6c9f3f8831d09848aa2e4\output\AndroidManifest.xml:39:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\konra\.android\build-cache\4a5fb37ce345f70509a6c9f3f8831d09848aa2e4\output\AndroidManifest.xml:39:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\konra\.android\build-cache\4a5fb37ce345f70509a6c9f3f8831d09848aa2e4\output\AndroidManifest.xml:43:9-47:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\konra\.android\build-cache\4a5fb37ce345f70509a6c9f3f8831d09848aa2e4\output\AndroidManifest.xml:43:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\konra\.android\build-cache\4a5fb37ce345f70509a6c9f3f8831d09848aa2e4\output\AndroidManifest.xml:43:18-82
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.0.4] C:\Users\konra\.android\build-cache\1ea69dbafce38d7ed7bc7caca7d4f2b4dc26650a\output\AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.0.4] C:\Users\konra\.android\build-cache\1ea69dbafce38d7ed7bc7caca7d4f2b4dc26650a\output\AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.0.4] C:\Users\konra\.android\build-cache\1ea69dbafce38d7ed7bc7caca7d4f2b4dc26650a\output\AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.0.4] C:\Users\konra\.android\build-cache\1ea69dbafce38d7ed7bc7caca7d4f2b4dc26650a\output\AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.0.4] C:\Users\konra\.android\build-cache\1ea69dbafce38d7ed7bc7caca7d4f2b4dc26650a\output\AndroidManifest.xml:6:79-143
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\konra\.android\build-cache\46e1a5aed49407a623aa2690dbb1a8aae4b98aaa\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\konra\.android\build-cache\46e1a5aed49407a623aa2690dbb1a8aae4b98aaa\output\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\konra\.android\build-cache\46e1a5aed49407a623aa2690dbb1a8aae4b98aaa\output\AndroidManifest.xml:20:20-65
