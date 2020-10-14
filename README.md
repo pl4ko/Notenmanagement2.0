@@ -1,0 +1,2 @@
+# Notenmanagement
+Notenmanagement 2.0 was the first software project I developed as my final thesis back at school in 2017/18. It comprises an Android app, which was written in Java. The purpose of my project was to create a native solution for the existing web application.
